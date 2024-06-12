@@ -1,0 +1,10 @@
+- Try these out on Google Colab to get that working in your head
+- Jupyter Magic commands
+  - %system <command>
+    - runs a system command
+  - %time
+    - times the execution of a cell
+  - %load
+  - %run - runs a python program
+  - etc.
+  - 
